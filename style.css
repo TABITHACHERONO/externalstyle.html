@@ -1,0 +1,14 @@
+body {
+    background-color: lightblue;
+}
+h1{
+   color: blueviolet;
+  margin-left: 40px;
+
+  }
+  p1{
+    color: lime;background-color: darkviolet;
+  }
+  p2{
+    color: gold;background-color: limegreen;
+  }
